@@ -1,0 +1,28 @@
+Hello there, fella!
+
+This game's code is almost completely lifted from the book "Learning C", by Graham(though the wannabe Shakespeare that I am, my amateur influence reflects in the language of the statements printed in the game).
+
+The objective for me was to try and compile the game myself while understanding the nuiances of C and programming in general, and it was indeed quite an experience!
+
+The files have some really beautiful lines of code( according to me) and I thought about sharing this joy with the world.
+
+So, all the credit to Mr. Graham, a relatively unknown author whose book, "Learning C" was an absolute joy to read!
+
+Have a good day!
+
+INSTRUCTIONS AND RULES
+
+-This is a betting game
+-It first asks you the amount that you would like to put at stake ( a floating point value)
+-Then, it asks for the amount to be betted in the first round
+(a floating point value)
+-Then the game roles two dice:
+	-If the sum is 7 or 11, you win
+	-If the sum is 2, 3, or 12, you lose
+	-If the sum is any other possible number, the dice are kept 
+	rolling till either the sum is 7 or it is same as that in
+	the first throw, in case of 7, you lose, the latter case, you
+	win
+-Computer asks if you would like to play another round, expecting a "y" or "Y" for yes, or "n" or "N" for no.
+---------------------------------------------------------------------
+---------------------------------------------------------------------
